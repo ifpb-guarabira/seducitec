@@ -1,0 +1,39 @@
+\section{Escada}
+
+\subsection{Descri\c{c}\~ao} 
+O Shopping Boas Compras - SBC, atrav\'es de sua pol\'itica ambiental, est\'a preocupado com o consumo de energia e, resolveu trocar todas as escadas rolantes por modelos mais modernos, que se desligam caso ningu\'em esteja utilizando, poupando energia.
+
+A nova escada rolante possui um sensor no in\'icio. Toda vez que ela est\'a vazia e algu\'em passa pelo sensor, a escada come\c{c}a a funcionar, parando de funcionar novamente ap\'os 10 segundos se ningu\'em mais passar pelo sensor. Estes 10 segundos representam o tempo suficiente para levar algu\'em de um n\'ivel ao outro.
+
+Preocupados em saber exatamente quanto de energia o shopping est\'a economizando, o gerente pediu sua ajuda. Como eles sabem qual era o consumo da escada rolante antiga, eles te pediram para calcular o tempo que a nova escada ficou funcionando. 
+
+Dados os instantes, em segundos, em que passaram pessoas pela escada rolante, voc\^e deve calcular quantos segundos ela ficou ligada. 
+
+\subsection{Entrada}
+
+O programa dever\'a receber como entrada v\'arios casos de teste. Em cada caso de teste, a primeira linha da entrada cont\'em um inteiro $N$ que indica o n\'umero de pessoas que o sensor detectou $(1 \leq N \leq 1.000)$. As $N$ linhas seguintes representam o instante em que a $i$-\'esima pessoa passou pelo sensor e cont\'em um inteiro $T$ $(0 \leq T \leq 10.000)$. Os tempos est\~ao em ordem crescente, sem repeti\c{c}\~oes. O programa deve parar de processar entradas quando for lido $N = 0$.
+
+\subsection{Sa\'ida}
+
+Para cada caso de teste seu programa deve imprimir uma \'unica linha, contendo a quantidade de segundos que a escada ficou ligada.
+
+\subsection{Exemplo de Entrada}
+3\\
+0\\
+10\\
+20\\
+5\\
+5\\
+10\\
+17\\
+20\\
+30\\
+3\\
+1\\
+2\\
+3\\
+0
+\subsection{Exemplo de Sa\'ida}
+30\\
+35\\
+12
