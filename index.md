@@ -20,12 +20,12 @@ Nos quatro dias, discentes, docentes, servidores e sociedade terão a oportunida
 
 Os participantes devem fazer o credenciamento das 16h às 19h no Hall de entrada do IFPB - Campus Guarabira. A partir das 18h, haverá a apresentação da banda IFMusic. A abertura será às 19h do dia 09 de Março no auditório do campus.
 
-### Submissão de Trabalhos
+### Datas
 
-Submissão de trabalhos aberta a partir <a class="typeform-share link" href="https://ifpb.typeform.com/to/vNPoVy" data-mode="2" target="_blank">deste formulário</a>
-<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script> de 11 a 21 de Fevereiro.
+**Submissão de trabalhos** aberta de 11 a 21 de Fevereiro.
 
-### Competição de Programação
+**Competição de Programação** aberta de 11 a 21 de Fevereiro.
 
-Inscrições abertas a partir <a class="typeform-share link" href="https://ifpb.typeform.com/to/Gb67Sk" data-mode="2" target="_blank">deste formulário</a>
-<script>(function(){var qs,js,q,s,d=document,gi=d.getElementById,ce=d.createElement,gt=d.getElementsByTagName,id='typef_orm',b='https://s3-eu-west-1.amazonaws.com/share.typeform.com/';if(!gi.call(d,id)){js=ce.call(d,'script');js.id=id;js.src=b+'share.js';q=gt.call(d,'script')[0];q.parentNode.insertBefore(js,q)}})()</script> de 11 a 21 de Fevereiro.
+**Inscrições de Ouvintes** aberta de 18 de Fevereiro a 1 de Março.
+
+`A inscrição de ouvintes poderá ser realizada nos dias do evento, porém materiais como caneta, bloco de notas e pasta não serão distribuídos de acordo com a disponibilidade em estoque.`
