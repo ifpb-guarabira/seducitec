@@ -28,4 +28,4 @@ Os participantes devem fazer o credenciamento das 16h às 19h no Hall de entrada
 
 **Inscrições de Ouvintes** aberta de 18 de Fevereiro a 1 de Março.
 
-`A inscrição de ouvintes poderá ser realizada nos dias do evento, porém materiais como caneta, bloco de notas e pasta não serão distribuídos de acordo com a disponibilidade em estoque.`
+`A inscrição de ouvintes poderá ser realizada nos dias do evento, porém materiais como caneta, bloco de notas e pasta serão distribuídos de acordo com a disponibilidade em estoque.`
