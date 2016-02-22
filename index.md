@@ -24,7 +24,7 @@ Os participantes devem fazer o credenciamento das 16h às 19h no Hall de entrada
 
 **Submissão de trabalhos** aberta de 11 a 21 de Fevereiro.
 
-**Competição de Programação** aberta de 11 a 21 de Fevereiro.
+**Competição de Programação** aberta de 11 de Fevereiro a 1 de Março.
 
 **Inscrições de Ouvintes** aberta de 18 de Fevereiro a 1 de Março.
 
