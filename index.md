@@ -111,6 +111,7 @@ Nos quatro dias, discentes, docentes, servidores e sociedade terão a oportunida
 
 #### O vôlei e a violência: Diagnóstico no IFPB Campus João Pessoa
  * Davi Jonathan Morais de Araújo
+ * Marcelo de Almeida Buriti
 
 #### Plataforma para auxílio ao ensino de programação e robótica pedagógica
  * Vitória Heliane Pereira dos Santos Sobrinha
