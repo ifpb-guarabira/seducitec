@@ -18,13 +18,13 @@ Nos quatro dias, discentes, docentes, servidores e sociedade terão a oportunida
 
 ### Programação
 
-![Geral]({{ site.url }}/assets/geral.jpg)
+![Geral]({{ site.url }}{{ site.baseurl }}/assets/geral.jpg)
 
 ![Trabalhos]({{ site.url }}{{ site.baseurl }}/assets/trabalhos.jpg)
 
-![Oficinas]({{ site.url }}/assets/oficinas.jpg)
+![Oficinas]({{ site.url }}{{ site.baseurl }}/assets/oficinas.jpg)
 
-![Cultural]({{ site.url }}/assets/cultural.jpg)
+![Cultural]({{ site.url }}{{ site.baseurl }}/assets/cultural.jpg)
 
 ### Oficinas
 
