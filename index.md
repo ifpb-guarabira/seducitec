@@ -16,6 +16,13 @@ O evento promove o compartilhamento das ações acadêmicas desenvolvidas no cam
 
 Nos quatro dias, discentes, docentes, servidores e sociedade terão a oportunidade de conhecer projetos de pesquisa e extensão concluídos ou ainda em andamento no Campus Guarabira. O campus possui projetos e ações em diversas áreas do conhecimento: educação, cultura, trabalho, saúde, comunicação, tecnologia e inovação.
 
+### Programação
+
+![Geral]({{ site.url }}/assets/geral.jpg)
+![Trabalhos]({{ site.url }}/assets/trabalhos.jpg)
+![Oficinas]({{ site.url }}/assets/oficinas.jpg)
+![Cultural]({{ site.url }}/assets/cultural.jpg)
+
 ### Oficinas
 
 #### Arquitetura verde: Uma forma de integração entre comodidade e eficiência
